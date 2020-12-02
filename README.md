@@ -11,7 +11,7 @@ Ena Peršić,
 
 ### Kolegij: [Programsko inženjerstvo](https://www.notion.so/Programsko-in-enjerstvo-e353945331df468e8382cdad1e91c4b8)
 
-### Mentori: [doc. dr. sc. Nikola Tanković](https://fipu.unipu.hr/fipu) i Toni Starčić, univ. bacc. inf.
+### Mentori: [doc. dr. sc. Nikola Tanković](https://www.notion.so/Kontakt-stranica-875574d1b92248b1a8e90dae52cd29a9) i Toni Starčić, univ. bacc. inf.
 
 ### Kratki opis funkcionalnosti:
 
